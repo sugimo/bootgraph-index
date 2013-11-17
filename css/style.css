@@ -519,6 +519,19 @@ body {
   background-color: #08b;
 }
 
+.btnDisable {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #eee;
+  padding: 8px 20px;
+  color: #666;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
 .footer {
   width: 100%;
   text-align: center;

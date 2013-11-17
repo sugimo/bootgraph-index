@@ -1,0 +1,15 @@
+Thumbs.db
+.DS_Store
+.sass-cache
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+Gemfile.lock
+*.DS_Store
+.sass-cache/*
+*.orig
+.css_debug
+.css_debug/*
+*.swp

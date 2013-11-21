@@ -404,6 +404,7 @@ body {
   color: #666;
   background-color: #fff;
   font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 .header {
@@ -420,9 +421,9 @@ body {
 
 .logo {
   font-size: 20px;
-  font-weight: normal;
+  font-weight: 300;
   margin: 5px 0 0 10px;
-  color: #21b7f0;
+  color: #0099cc;
   float: left;
 }
 
@@ -484,7 +485,7 @@ body {
 
 .hl01 {
   font-size: 58px;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1;
   color: #09c;
   margin: 0;

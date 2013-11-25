@@ -405,6 +405,7 @@ body {
   background-color: #fff;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
+  -webkit-text-size-adjust: none;
 }
 
 .header {
@@ -468,16 +469,18 @@ body {
 }
 
 .innerPick {
-  width: 980px;
+  width: 920px;
   margin: 0 auto;
+  padding: 0 30px;
   text-align: center;
   background: url(../img/imagepick.png) center bottom no-repeat;
   padding-bottom: 345px;
 }
 
 .innerPath {
-  width: 980px;
+  width: 920px;
   margin: 0 auto;
+  padding: 0 30px;
   text-align: center;
   background: url(../img/pathcon.png) center bottom no-repeat;
   padding-bottom: 345px;
